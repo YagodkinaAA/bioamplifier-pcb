@@ -1,0 +1,19 @@
+# KiCad backup/autosave files
+*.bak
+*.lck
+~*
+*-backups/
+
+# Generated manufacturing/output files
+output/
+manufacturing/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+
+# KiCad local settings
+*.kicad_prl
