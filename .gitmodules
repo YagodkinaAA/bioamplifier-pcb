@@ -1,0 +1,3 @@
+[submodule "bioamplifier-library"]
+	path = bioamplifier-library
+	url = https://github.com/YagodkinaAA/bioamplifier-library.git
