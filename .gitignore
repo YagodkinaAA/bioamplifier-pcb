@@ -17,3 +17,4 @@ Desktop.ini
 
 # KiCad local settings
 *.kicad_prl
+.history/
